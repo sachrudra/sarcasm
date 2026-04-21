@@ -1,5 +1,5 @@
 window.SAP_MESSAGES = [
-"No rush. I cleared my entire schedule for this.",
+"No rush. I cleared my entire schedule for this..",
 "Take your time. Really. I insist.",
 "I'm starting to feel like this is a personality trait now.",
 "At this point, it's more of a lifestyle.",
